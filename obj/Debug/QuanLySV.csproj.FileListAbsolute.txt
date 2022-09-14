@@ -1,0 +1,8 @@
+C:\Users\souli\Desktop\phone\cnnet\QuanLySV\QuanLySV\bin\Debug\QuanLySV.exe.config
+C:\Users\souli\Desktop\phone\cnnet\QuanLySV\QuanLySV\bin\Debug\QuanLySV.exe
+C:\Users\souli\Desktop\phone\cnnet\QuanLySV\QuanLySV\bin\Debug\QuanLySV.pdb
+C:\Users\souli\Desktop\phone\cnnet\QuanLySV\QuanLySV\obj\Debug\QuanLySV.csproj.AssemblyReference.cache
+C:\Users\souli\Desktop\phone\cnnet\QuanLySV\QuanLySV\obj\Debug\QuanLySV.csproj.SuggestedBindingRedirects.cache
+C:\Users\souli\Desktop\phone\cnnet\QuanLySV\QuanLySV\obj\Debug\QuanLySV.csproj.CoreCompileInputs.cache
+C:\Users\souli\Desktop\phone\cnnet\QuanLySV\QuanLySV\obj\Debug\QuanLySV.exe
+C:\Users\souli\Desktop\phone\cnnet\QuanLySV\QuanLySV\obj\Debug\QuanLySV.pdb
